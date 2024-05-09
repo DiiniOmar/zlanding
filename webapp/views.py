@@ -17,5 +17,5 @@ def SignUpView(request):
     else:
         form = signUpForm()
     
-    return render(request, 'Webapp/index.html', {'form': form})
+    return render(request, 'Webapp/home.html', {'form': form})
 
