@@ -22,7 +22,7 @@ STATIC_DIR = BASE_DIR/'static'
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-ha5rw!_y0@y3-4d8z3ma#vi7b6dbqld&1y^8*0-bwtjxy5s7)+'
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
